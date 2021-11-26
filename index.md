@@ -1,5 +1,5 @@
 # Witam na mojej stronie!  
-## W przyszłości mogą się tu znaleźć ciekawe projekty i/bądź innowacyjne pomysły!  
+W przyszłości mogą się tu znaleźć ciekawe projekty i/bądź innowacyjne pomysły!  
 
 
 Na razie natomiast zachęcam do przeczytania mojego bardzo skróconego życiorysu!  
